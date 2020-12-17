@@ -1,14 +1,15 @@
 html{
-    font-size: 10px;
+    font-size: 20px;
 }
 h1 {
     color: rgb(29, 103, 240);
     text-decoration: underline;
-    font-size: 5rem;
+    font-size: 10;
+    text-shadow: brown;
+    text-align: center;
 }
 
 p {
-    font-size: 1.8rem;
-    font-style: italic;    
-    letter-spacing: 3px;
+    font-size: 8rem;
+    font-style: normal;
 }
